@@ -1,7 +1,9 @@
 # Scala 
 
 
-#Commands
-\>scalac Program name.scala
+<h1>Commands<\h1> 
 
-\>scala Demo
+
+\>scalac Programname.scala
+
+\>scala Programnam
